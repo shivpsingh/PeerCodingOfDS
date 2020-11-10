@@ -1,5 +1,6 @@
 # Folders to exclude
 
 .vscode
+.settings
 
 # Files to exclude
